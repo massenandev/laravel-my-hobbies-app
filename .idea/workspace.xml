@@ -121,6 +121,7 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1h3PsRGzjIBha2NzStYxAddq0Bx" />
@@ -147,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599237009050</updated>
-      <workItem from="1599237010253" duration="638000" />
+      <workItem from="1599237010253" duration="1261000" />
     </task>
     <servers />
   </component>
