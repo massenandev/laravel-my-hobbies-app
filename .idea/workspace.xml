@@ -132,7 +132,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -148,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599237009050</updated>
-      <workItem from="1599237010253" duration="3837000" />
+      <workItem from="1599237010253" duration="8609000" />
     </task>
     <servers />
   </component>
@@ -156,6 +162,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1092" y="330" width="719" height="445" key="EditFileWatcherDialog" timestamp="1599250752748">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1092" y="330" width="719" height="445" key="EditFileWatcherDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1599250752748" />
     <state width="881" height="278" key="GridCell.Tab.0.bottom" timestamp="1599241705701">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
