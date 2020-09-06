@@ -39,6 +39,12 @@ class HobbyController extends Controller
      */
     public function store(Request $request)
     {
+        $request->validate([
+            // | pipe is used when you want to add more validation rules to the field
+            'name' => 'required|min:3',
+            'description' => 'required|min:5',
+        ]);
+
         $hobby = new Hobby([
             'name' => $request['name'],
             'description' => $request['description'],
