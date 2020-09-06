@@ -16,7 +16,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="style">Style</label>
-                                <textarea class="form-control" {{ $errors->has('style') ? 'border-danger' : '' }}id="style" name="style" rows="5">{{old('style')}}</textarea>
+                                <input type="text" class="form-control {{ $errors->has('style') ? 'border-danger' : '' }}" id="style" name="style" value="{{old('style')}}">
                                 <small class="form-text text-danger">{!! $errors->first('style') !!}</small>
                             </div>
                             <input class="btn btn-primary mt-4" type="submit" value="Save Tag">
