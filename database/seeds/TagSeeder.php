@@ -13,7 +13,6 @@ class TagSeeder extends Seeder
      */
     public function run()
     {
-        // continuar nessa classe
         $tags = [
             'Sports' => 'primary', // blue
             'Relaxation' => 'secondary', // grey
