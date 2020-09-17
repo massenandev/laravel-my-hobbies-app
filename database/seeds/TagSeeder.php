@@ -11,7 +11,6 @@ class TagSeeder extends Seeder
      *
      * @return void
      */
-    //
     public function run()
     {
         $tags = [
