@@ -23,7 +23,7 @@ class TagSeeder extends Seeder
             'Love' => 'danger', // red
             'Interest' => 'dark' // black-white
         ];
-
+//
         foreach ($tags as $key => $value) {
             $tag = new Tag(
                 [
