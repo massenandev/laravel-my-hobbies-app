@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea272e0-92cf-4b27-8681-b9c29cb47195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/TagSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/TagSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,6 +164,7 @@
       <workItem from="1599237010253" duration="38383000" />
       <workItem from="1600650153258" duration="104000" />
       <workItem from="1600827594819" duration="981000" />
+      <workItem from="1600978488795" duration="614000" />
     </task>
     <servers />
   </component>
