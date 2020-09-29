@@ -6,7 +6,6 @@ use App\Tag;
 
 class TagSeeder extends Seeder
 {
-    //
     /**
      * Run the database seeds.
      *
