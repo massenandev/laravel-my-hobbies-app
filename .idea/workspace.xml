@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ea272e0-92cf-4b27-8681-b9c29cb47195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/database/seeds/TagSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/TagSeeder.php" afterDir="false" />
-    </list>
+    <list default="true" id="5ea272e0-92cf-4b27-8681-b9c29cb47195" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,6 +166,7 @@
       <workItem from="1601137836549" duration="602000" />
       <workItem from="1601229857778" duration="601000" />
       <workItem from="1601388338138" duration="42000" />
+      <workItem from="1601585601785" duration="117000" />
     </task>
     <servers />
   </component>
